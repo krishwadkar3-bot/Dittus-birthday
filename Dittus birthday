@@ -1,4 +1,3 @@
-index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +6,7 @@ index.html
 <title>Dittu's Birthday ❤️</title>
 
 <style>
-body {
+body { 
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', sans-serif;
